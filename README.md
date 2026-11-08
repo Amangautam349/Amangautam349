@@ -42,13 +42,6 @@ My current learning interests include:
 
 In addition to my academic background, I have experience in banking operations, technology operations, product development coordination, and teaching. These roles have provided opportunities to develop skills in operational management, communication, analytical thinking, teamwork, and problem-solving.
 
-## GitHub
-
-This profile serves as a record of my learning journey, academic work, and practical projects. I intend to use it to document my progress and share projects as I continue developing my technical skills.
-
-**GitHub:** [Amangautam349](https://github.com/Amangautam349)
-
----
 
 *Committed to continuous learning and the practical application of technology.*
--->
+
