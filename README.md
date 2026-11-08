@@ -1,4 +1,3 @@
-## Hi there 👋
 # Aman Gautam
 
 I am a Computer Science graduate from the University of the People, with an academic background in programming, mathematics, data science, and software engineering. My interests include Artificial Intelligence, Machine Learning, and the practical application of technology to real-world problems.
