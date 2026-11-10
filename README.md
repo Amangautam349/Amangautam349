@@ -21,12 +21,26 @@ During my undergraduate studies, I developed an academic foundation in the follo
 - Software Engineering
 - Programming Fundamentals
 
-## Technical Knowledge
+## Technical Skills
 
-- **Programming Languages:** Python and Java (academic foundation)
-- **Web Technologies:** HTML and CSS (foundational knowledge)
-- **Computer Science:** Data Structures, Database Systems, and Software Engineering
-- **Development Tools:** Git and GitHub
+- **Programming Languages:** Python, Java, and JavaScript (academic and foundational knowledge)
+- **Frontend Development:** HTML5, CSS3, React.js, Tailwind CSS
+- **Backend Development:** Node.js, Express.js, REST API development
+- **Database Management:** PostgreSQL, SQL, relational database design
+- **Authentication & Security:** JWT authentication, bcrypt, role-based access control
+- **Web Graphics:** Three.js, WebGL, 3D rendering, and texture mapping
+- **Computer Science Fundamentals:** Data Structures and Algorithms, Database Systems, Software Engineering, Data Mining, Machine Learning, and Statistics
+- **Development Tools:** Git, GitHub, Visual Studio Code, and npm
+- **Project Development:** Full-stack application development, responsive UI development, API integration, and technical documentation
+
+## Selected Projects
+
+- **Teacher Management System:** Full-stack application using React, Node.js, Express.js, and PostgreSQL, featuring teacher and department management, authentication, and role-based access control.
+- **Floating Chatbot:** Web-based chatbot interface developed using HTML, CSS, and JavaScript.
+- **Bagaicha Restaurant & Villa Management System:** Hospitality management system concept for restaurant and villa operations, covering online ordering, billing, accounts, customer management, sales tracking, menu administration, and website/mobile application planning.
+- **SchoolHub:** Multi-school management system concept covering school administration, teacher management, scheduling, and communication workflows.
+- **Three.js Texture Mapping:** Web graphics project exploring 3D rendering and texture mapping using Three.js.
+- **WebGL Project:** Exploration of browser-based graphics and WebGL technologies.
 
 ## Areas of Interest
 
